@@ -291,3 +291,11 @@ footer {
 table, th, td {
    border: 5px solid #cc0000;
 }
+a {
+  color: $blue;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+  }
+
