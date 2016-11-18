@@ -15,6 +15,7 @@
 
 html {
   font-size: 100%;
+	color: #ff0000
 }
 
 body {
@@ -279,7 +280,7 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 100px 0;
   text-align: center;
 }
 
@@ -288,5 +289,5 @@ footer {
 @import "highlights";
 @import "svg-icons";
 table, th, td {
-   border: 1px solid #cc0000;
+   border: 5px solid #cc0000;
 }
