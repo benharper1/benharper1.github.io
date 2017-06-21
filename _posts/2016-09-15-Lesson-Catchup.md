@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <th>Title</th>
-    <td>Making a blog</td>
-    <th>Date</th>
+    <td>Title</td>
+    <td>Continuing with github and repl</td>
+    <td>Date</td>
     <td>15/09/16</td>
   </tr>
 </table>
@@ -18,39 +18,39 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
-    <td>I have started my blog and have changed my profile picture</td>
+    <td>Starting point:</td>
+    <td>I had a quiz with all the questions but no answer</td>
   </tr>
   <tr>
-    <th>Target for this lesson?</th>
-    <td>To change my background and to adjust my text colours</td>
+    <td>Target for this lesson?</td>
+    <td>Complete my quiz</td>
   </tr>
   <tr>
-    <th>Did I reach my target? 
-(add details to "Lesson Review")</th>
-    <td> Yes, but I did it at home so I'm not sure whether I have done everything exactly right</td>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td>No, because my quiz doesn't work</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <td>Lesson Review</td>
   </tr>
   <tr>
-    <th>How did I learn? What strategies were effective? </th>
+    <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by emailing and talking with my peers and experimenting with my code to try to achieve the lesson target, I managed it relatively well as I was suggested a website (w3 schools) to help me and it was really useful. It gave me all the code I needed and told me where to put it.</td>
+    <td>I learnt by emailing and talking with my peers and experimenting with my code to try to achieve the lesson target, I managed it relatively well as I was suggested a website (w3 schools) to help me and it was really useful. It gave me all the code I needed and told me where to put it. </td>
   </tr>
   <tr>
-    <th>What limited my learning? Which habits do I need to work on? </th>
+    <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Playing rugby firstly, secondly not going to see leaving it to the last minute to catch up as it was all very rushed and I probably could 've caught up better.  Therefore I could probably work on collaboration with others.</td>
+    <td>I had a hard time when I was dealing with " syntax errors" , the problem with them is that when they come up as an error, they don't give you any information on why it has come up. Therefore I had to undergo a long process of trial and error before I finally found a solution.</td>
   </tr>
   <tr>
-    <th>What will I change for next time? How will I improve my learning?</th>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
     <td>I will hopefully be present for the lesson next time and I will complete the homework/catching up the night I get it.</td>
